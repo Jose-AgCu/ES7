@@ -1,6 +1,11 @@
-let i = 1;
+//16. Tabla del 5 con while
+//ObjeƟvo: repeƟr instrucciones con contador.
+//Usa un ciclo while para imprimir la tabla del 5 desde:
+//5 x 1 = 5
+//hasta:
+//5 x 10 = 50
 
-while (i <= 10) {
- console.log("5 x " + i + " = " + (5 * i));
- i++;
-}
+let a = 1;
+while (a <= 10) {
+console.log("5 x " + a + " = " + (5 * a));
+a++;}

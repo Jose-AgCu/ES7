@@ -3,5 +3,5 @@
 //const numeros = [45, 12, 78, 3, 19, 1];
 //Ordénalos de menor a mayor.
 const numeros = [45, 12, 78, 3, 19, 1];
-const numer5os_alfabeticamente = numeros.sort((a, b) => a - b);
+const numer5os_accendentemente = numeros.sort((a, b) => a - b);
 console.log(numeros);
