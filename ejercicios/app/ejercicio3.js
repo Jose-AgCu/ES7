@@ -5,5 +5,5 @@
 //Ejemplo esperado:
 //[3, 10, 4, 10] 
 const palabras = ["sol", "computador", "mesa", "javascript"];
-const longitudes_palabras = palabras.map((londitud) => longitud.length);
+const longitudes_palabras = palabras.map((londitud) =>londitud.length);
 console.log(longitudes_palabras);
