@@ -59,5 +59,5 @@ console.log(aprendices_nivel(3,5));
 
 aprendices.forEach(estudiante => {
 const clasificacion = aprendices_nivel(estudiante.nota);
-console.log("nombre:", estudiante.nombre,",", "nota:", estudiante.nota,",", "nivel:",estudiante.clasificacion);
+console.log("nombre:", estudiante.nombre,",", "nota:", estudiante.nota,",", "nivel:",clasificacion);
 })
